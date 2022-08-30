@@ -1,7 +1,5 @@
 <?php
 
-namespace Application\models\helper;
-
 class GenerateCalendar
 {
     private $year;
